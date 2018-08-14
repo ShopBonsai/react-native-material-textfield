@@ -448,6 +448,7 @@ export default class TextField extends PureComponent {
     };
 
     let helperContainerStyle = {
+      flex: 1,
       flexDirection: 'row',
       height: (title || limit)?
         titleFontSize * 2:
