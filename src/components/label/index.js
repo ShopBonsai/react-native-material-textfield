@@ -117,8 +117,8 @@ export default class Label extends PureComponent {
     } = this.props;
 
     let color = focus.interpolate({
-        inputRange: [0, 1],
-        outputRange: [baseColor, tintColor],
+        inputRange: [-1, 0, 1],
+        outputRange: [tintColor, baseColor, tintColor],
       });
 
     let textStyle = {
