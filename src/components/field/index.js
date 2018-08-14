@@ -76,7 +76,7 @@ export default class TextField extends PureComponent {
 
     characterRestriction: PropTypes.number,
 
-    error: PropTypes.string,
+    error: PropTypes.node,
     errorColor: PropTypes.string,
 
     lineWidth: PropTypes.number,
