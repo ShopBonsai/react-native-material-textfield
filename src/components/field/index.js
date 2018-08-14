@@ -374,11 +374,10 @@ export default class TextField extends PureComponent {
       'right':
       'left';
 
-    let borderBottomColor = restricted?
-      errorColor:
+    let borderBottomColor = 
       focus.interpolate({
-        inputRange: [-1, 0, 1],
-        outputRange: [errorColor, baseColor, tintColor],
+        inputRange: [0, 1],
+        outputRange: [baseColor, tintColor],
       });
 
     let borderBottomWidth = restricted?
@@ -488,7 +487,6 @@ export default class TextField extends PureComponent {
       activeFontSize: labelFontSize,
       tintColor,
       baseColor,
-      errorColor,
       animationDuration,
       active,
       focused,
@@ -499,7 +497,6 @@ export default class TextField extends PureComponent {
 
     let counterProps = {
       baseColor,
-      errorColor,
       count,
       limit,
       fontSize: titleFontSize,

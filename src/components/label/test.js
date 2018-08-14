@@ -14,7 +14,6 @@ const props = {
   activeFontSize: 12,
   tintColor: 'blue',
   baseColor: 'black',
-  errorColor: 'red',
   animationDuration: 225,
 };
 

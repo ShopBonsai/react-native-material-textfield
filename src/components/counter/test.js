@@ -8,7 +8,6 @@ import Counter from '.';
 
 const props = {
   baseColor: 'blue',
-  errorColor: 'red',
   fontSize: 12,
 };
 

@@ -953,7 +953,7 @@ exports[`renders error 1`] = `
     style={
       Object {
         "backgroundColor": "transparent",
-        "borderBottomColor": "rgba(213, 0, 0, 1)",
+        "borderBottomColor": "rgba(0, -145, -234, -0.239)",
         "borderBottomWidth": 2,
         "height": 64,
         "paddingBottom": 8,
@@ -990,7 +990,7 @@ exports[`renders error 1`] = `
         numberOfLines={1}
         style={
           Object {
-            "color": "rgba(213, 0, 0, 1)",
+            "color": "rgba(0, -145, -234, -0.239)",
             "fontSize": 16,
           }
         }
@@ -1516,7 +1516,7 @@ exports[`renders restriction 1`] = `
     style={
       Object {
         "backgroundColor": "transparent",
-        "borderBottomColor": "rgb(213, 0, 0)",
+        "borderBottomColor": "rgba(0, 0, 0, 0.38)",
         "borderBottomWidth": 2,
         "height": 64,
         "paddingBottom": 8,
@@ -1553,7 +1553,7 @@ exports[`renders restriction 1`] = `
         numberOfLines={1}
         style={
           Object {
-            "color": "rgb(213, 0, 0)",
+            "color": "rgba(0, 0, 0, 0.38)",
             "fontSize": 16,
           }
         }
@@ -1696,7 +1696,7 @@ exports[`renders restriction 1`] = `
             },
             undefined,
             Object {
-              "color": "rgb(213, 0, 0)",
+              "color": "rgba(0, 0, 0, .38)",
               "fontSize": 12,
             },
           ]

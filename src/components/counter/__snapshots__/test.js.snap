@@ -21,7 +21,7 @@ exports[`renders when limit is exceeded 1`] = `
         },
         undefined,
         Object {
-          "color": "red",
+          "color": "blue",
           "fontSize": 12,
         },
       ]
