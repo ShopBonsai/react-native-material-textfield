@@ -22,10 +22,22 @@ exports[`renders 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 36,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 36,
+            },
+            Object {
+              "scale": 1,
+            },
+          ],
         }
       }
     >
@@ -186,10 +198,22 @@ exports[`renders accessory 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 36,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 36,
+            },
+            Object {
+              "scale": 1,
+            },
+          ],
         }
       }
     >
@@ -362,10 +386,22 @@ exports[`renders counter 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -378,7 +414,7 @@ exports[`renders counter 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -557,10 +593,22 @@ exports[`renders default value 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -573,7 +621,7 @@ exports[`renders default value 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -739,10 +787,22 @@ exports[`renders disabled value 1`] = `
     />
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -755,7 +815,7 @@ exports[`renders disabled value 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -903,10 +963,22 @@ exports[`renders error 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 36,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 36,
+            },
+            Object {
+              "scale": 1,
+            },
+          ],
         }
       }
     >
@@ -1070,10 +1142,22 @@ exports[`renders multiline value 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -1086,7 +1170,7 @@ exports[`renders multiline value 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -1236,10 +1320,22 @@ exports[`renders prefix 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -1252,7 +1348,7 @@ exports[`renders prefix 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -1430,10 +1526,22 @@ exports[`renders restriction 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -1446,7 +1554,7 @@ exports[`renders restriction 1`] = `
         style={
           Object {
             "color": "rgb(213, 0, 0)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -1625,10 +1733,22 @@ exports[`renders suffix 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -1641,7 +1761,7 @@ exports[`renders suffix 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >
@@ -1819,10 +1939,22 @@ exports[`renders title 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 36,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 36,
+            },
+            Object {
+              "scale": 1,
+            },
+          ],
         }
       }
     >
@@ -1985,10 +2117,22 @@ exports[`renders value 1`] = `
   >
     <View
       collapsable={undefined}
+      onLayout={[Function]}
       style={
         Object {
           "position": "absolute",
-          "top": 16,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "translateX": 0,
+            },
+            Object {
+              "translateY": 14,
+            },
+            Object {
+              "scale": 0.75,
+            },
+          ],
         }
       }
     >
@@ -2001,7 +2145,7 @@ exports[`renders value 1`] = `
         style={
           Object {
             "color": "rgba(0, 0, 0, 0.38)",
-            "fontSize": 12,
+            "fontSize": 16,
           }
         }
       >

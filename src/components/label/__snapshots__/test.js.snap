@@ -3,10 +3,22 @@
 exports[`renders active label 1`] = `
 <View
   collapsable={undefined}
+  onLayout={[Function]}
   style={
     Object {
       "position": "absolute",
-      "top": 16,
+      "top": 0,
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+        Object {
+          "translateY": 14,
+        },
+        Object {
+          "scale": 0.75,
+        },
+      ],
     }
   }
 >
@@ -19,7 +31,7 @@ exports[`renders active label 1`] = `
     style={
       Object {
         "color": "rgba(0, 0, 0, 1)",
-        "fontSize": 12,
+        "fontSize": 16,
       }
     }
   >
@@ -31,10 +43,22 @@ exports[`renders active label 1`] = `
 exports[`renders errored label 1`] = `
 <View
   collapsable={undefined}
+  onLayout={[Function]}
   style={
     Object {
       "position": "absolute",
-      "top": 36,
+      "top": 0,
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+        Object {
+          "translateY": 36,
+        },
+        Object {
+          "scale": 1,
+        },
+      ],
     }
   }
 >
@@ -59,10 +83,22 @@ exports[`renders errored label 1`] = `
 exports[`renders focused label 1`] = `
 <View
   collapsable={undefined}
+  onLayout={[Function]}
   style={
     Object {
       "position": "absolute",
-      "top": 16,
+      "top": 0,
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+        Object {
+          "translateY": 14,
+        },
+        Object {
+          "scale": 0.75,
+        },
+      ],
     }
   }
 >
@@ -75,7 +111,7 @@ exports[`renders focused label 1`] = `
     style={
       Object {
         "color": "rgba(0, 0, 255, 1)",
-        "fontSize": 12,
+        "fontSize": 16,
       }
     }
   >
@@ -87,10 +123,22 @@ exports[`renders focused label 1`] = `
 exports[`renders label 1`] = `
 <View
   collapsable={undefined}
+  onLayout={[Function]}
   style={
     Object {
       "position": "absolute",
-      "top": 36,
+      "top": 0,
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+        Object {
+          "translateY": 36,
+        },
+        Object {
+          "scale": 1,
+        },
+      ],
     }
   }
 >
@@ -115,10 +163,22 @@ exports[`renders label 1`] = `
 exports[`renders restricted label 1`] = `
 <View
   collapsable={undefined}
+  onLayout={[Function]}
   style={
     Object {
       "position": "absolute",
-      "top": 36,
+      "top": 0,
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+        Object {
+          "translateY": 36,
+        },
+        Object {
+          "scale": 1,
+        },
+      ],
     }
   }
 >

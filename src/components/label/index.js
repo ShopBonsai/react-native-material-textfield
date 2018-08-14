@@ -50,7 +50,7 @@ export default class Label extends PureComponent {
     };
   }
 
-  componentWillReceiveProps(props) {
+  UNSAFE_componentWillReceiveProps(props) {
     let { focus, inputTY, inputScale, inputTX } = this.state;
     let { active, focused, errored, animationDuration: duration } = this.props;
 
